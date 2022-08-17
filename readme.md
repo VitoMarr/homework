@@ -1,4 +1,4 @@
-# Совсем немножко о [GIT](description.md)  
+# [GIT](description.md)  
 
 ![](/assets/2560px-Git-logo.svg.png)
 
